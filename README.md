@@ -1,3 +1,4 @@
+
  <!DOCTYPE html>  
 <html lang="en">  
 <head>  
@@ -93,7 +94,7 @@
         .hero {  
             background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%231a1a2e" width="1200" height="600"/><circle fill="%23ffd700" opacity="0.1" cx="200" cy="200" r="150"/><circle fill="%23ff6b9d" opacity="0.1" cx="1000" cy="400" r="200"/><path fill="%23ff4757" opacity="0.05" d="M0 500 Q300 300 600 500 T1200 500"/></svg>');  
             background-size: cover;  
-            height: 100vh;  
+            height: 150vh;  
             display: flex;  
             align-items: center;  
             justify-content: center;  
@@ -135,7 +136,7 @@
         /* Products Section */  
         .products {  
             padding: 5rem 2rem;  
-            max-width: 1200px;  
+            max-width: 500px;  
             margin: 0 auto;  
         }  
   

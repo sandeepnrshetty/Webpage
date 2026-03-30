@@ -1,14 +1,9 @@
-#   
-  
-I'll create a complete responsive perfume e-commerce website that works perfectly on mobile phones. Here's the full code:  
-  
-```html  
-<!DOCTYPE html>  
+ <!DOCTYPE html>  
 <html lang="en">  
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Luxuria Perfumes - Premium Fragrances</title>  
+    <title> GS Luxuria Perfumes - Premium Fragrances</title>  
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">  
     <style>  
         * {  
